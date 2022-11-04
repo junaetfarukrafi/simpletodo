@@ -8,10 +8,10 @@
   outline: none;
 }
 body {
-  background-color: beige;
+  background-color: rgb(196, 196, 3);
 }
 nav {
-  background-color: rgb(235, 155, 155);
+  background-color: rgb(12, 255, 251);
   height: 5vh;
   display: flex;
   justify-content: center;
@@ -24,7 +24,7 @@ nav {
   transition: all 0.3s;
 }
 .nav-link:hover {
-  color: white;
+  color: rgb(255, 0, 0);
 }
 
 main {
